@@ -74,5 +74,5 @@ int main()
 	S2.ReadInfo();
 	S2.PrintInfo();
 	return 0;
-} // S2 and T1 are destructed
+} // S2, T1, and S are destructed
 
